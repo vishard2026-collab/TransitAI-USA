@@ -1,0 +1,6 @@
+streamlit>=1.37
+pandas>=2.1
+requests>=2.31
+gtfs-realtime-bindings>=1.0.0
+folium>=0.17
+streamlit-folium>=0.22
